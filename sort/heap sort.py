@@ -17,5 +17,5 @@ def heap_sort(arr):
         heapify(arr, i, 0)
 
 arr = [1, 12, 9, 5, 6, 10]
-heap_sort(arr)
+heap_sort(arr)  
 print("Sorted array is", arr)
